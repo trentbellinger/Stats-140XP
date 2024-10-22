@@ -1,1 +1,2 @@
-x <- runif(100)
+x <- runif(1000)
+mean(x)
